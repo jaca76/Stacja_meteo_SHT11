@@ -1,0 +1,1 @@
+Stacja_meteo_SHT11
